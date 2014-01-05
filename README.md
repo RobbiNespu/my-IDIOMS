@@ -6,9 +6,8 @@ Thus idioms will randomly picked when page are loaded. Simply,Just include the f
 ##License
 =========
 I'm using Creative Common license
-http://creativecommons.org/licenses/by-nc-sa/2.5/my/
-* please read more here
+* please read (http://creativecommons.org/licenses/by-nc-sa/2.5/my/)
 
 
 ##Happy literature !
-- From a computer science student FSKTM @ UTHM!
+- From FSKTM @ UTHM!
